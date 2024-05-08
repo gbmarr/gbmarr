@@ -1,4 +1,3 @@
-```
 # ¡Hola! Soy Gabriel Marrero 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas de la UNICEN.
@@ -25,9 +24,9 @@ Además, soy un estudiante de la plataforma "Maxi Programa" de Maximiliano Sar F
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
 - [LinkedIn] - www.linkedin.com/in/gabrielmarrerok
+- [GMAIL] - gab.bmar.05@gmail.com
 - [Instagram] - @gabmarre
 
 ¡No dudes en enviarme un mensaje!
 
 ¡Gracias por visitar mi perfil! 😊
-```
